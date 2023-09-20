@@ -2,13 +2,13 @@
 <h3 align="center">Full Stack Developer de Argentina</h3>
 
 - ¿Quien soy? **Ademas de Desarrollador, soy estudiante de Sistemas.**
+  
+- ¿Qué tecnologías utilizo? **JavaScript, React, Redux, NodeJS, Express, PostgreSQL, Sequelize, Vite, Tailwind.**
 
 - 🌱 Estoy aprendiendo: **React-Native, JWT, TypeScript.**
 
 - ¿Que hago? **Hoy en dia estoy buscando mi primer experiencia laboral, estudio en la universidad y hago talleres sobre tecnologias interesantes.**
-
-- ¿Qué tecnologías utilizo? **JavaScript, React, Redux, NodeJS, Express, PostgreSQL, Sequelize, Vite, Tailwind.**
-
+  
 - 📫 Como contactarme: **pedroberustein03@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
