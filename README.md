@@ -3,7 +3,7 @@
 
 - ¿Quien soy? **Ademas de Desarrollador, soy estudiante de Sistemas.**
   
-- ¿Qué tecnologías utilizo? **JavaScript, React, Redux, NodeJS, Express, PostgreSQL, Sequelize, Vite, Tailwind.**
+- ¿Qué tecnologías utilizo? **JavaScript, React, Redux, NodeJS, Express, PostgreSQL, Sequelize, Vite, Tailwind, GIT.**
 
 - 🌱 Estoy aprendiendo: **React-Native, JWT, TypeScript.**
 
