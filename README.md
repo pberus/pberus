@@ -9,7 +9,7 @@
 
 - ¿Que hago? **Hoy en dia estoy buscando mi primer experiencia laboral, estudio en la universidad y hago talleres sobre tecnologias interesantes.**
   
-- 📫 Como contactarme: **pedroberustein03@hotmail.com**
+- 📫 Como contactarme: **pedroberustein03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
