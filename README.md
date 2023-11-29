@@ -7,7 +7,7 @@
 
 - 🌱 Estoy aprendiendo: **React-Native, JWT, TypeScript.**
 
-- ¿Que hago? **Hoy en dia estoy buscando mi primer experiencia laboral, estudio en la universidad y hago talleres sobre tecnologias interesantes.**
+- ¿Que hago? **Hoy en dia estoy buscando mi primer experiencia laboral, estudio en la universidad y hago cursos sobre tecnologias interesantes.**
   
 - 📫 Como contactarme: **pedroberustein03@gmail.com**
 
