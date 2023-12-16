@@ -5,7 +5,9 @@
   
 - ¿Qué tecnologías utilizo? **JavaScript, React, Redux, NodeJS, Express, PostgreSQL, Sequelize, Vite, Tailwind, GIT.**
 
-- 🌱 Estoy aprendiendo: **React-Native, JWT, TypeScript.**
+- Recientemente aprendi: **TypeScript** 
+
+- 🌱 Estoy aprendiendo: **React-Native, JWT, Firebase.**
 
 - ¿Que hago? **Hoy en dia estoy buscando mi primer experiencia laboral, estudio en la universidad y hago cursos sobre tecnologias interesantes.**
   
