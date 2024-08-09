@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Pedro Berustein</h1>
-<h3 align="center">Full Stack Developer de Argentina</h3>
+<h3 align="center">FullStack Developer de Argentina</h3>
 
 - ¿Quien soy? **Ademas de Desarrollador, soy estudiante de Sistemas.**
   
