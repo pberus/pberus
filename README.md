@@ -3,13 +3,13 @@
 
 - ¿Quien soy? **Ademas de Desarrollador, soy estudiante de Sistemas.**
   
-- ¿Qué tecnologías utilizo? **JavaScript, React, Redux, HTML, CSS, Tailwind, Less, NodeJS, Express, PostgreSQL, Sequelize, Vite, GIT.**
+- ¿Qué tecnologías utilizo? **JavaScript, React, Redux, HTML, CSS, Tailwind, Less, NodeJS, Express, PostgreSQL, Sequelize, MongoDB, Mongoose, Vite, GIT, JWT, Passport.**
 
 - Recientemente aprendi: **TypeScript y React-Native** 
 
-- 🌱 Estoy aprendiendo: **JWT, Firebase, Auth0.**
+- 🌱 Estoy aprendiendo: **AWS, Firebase.**
 
-- ¿Que hago? **Hoy en dia estoy buscando mi primer experiencia laboral, estudio en la universidad y hago cursos sobre tecnologias interesantes.**
+- ¿Que hago? **Hoy en dia estoy buscando mi primer experiencia laboral como desarrollador, estudio en la universidad y hago cursos sobre tecnologias interesantes.**
   
 - 📫 Como contactarme: **pedroberustein03@gmail.com**
 
