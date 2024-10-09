@@ -5,7 +5,7 @@
   
 - ¿Qué tecnologías utilizo? **JavaScript, React, Redux, HTML, CSS, Tailwind, Less, NodeJS, Express, PostgreSQL, Sequelize, MongoDB, Mongoose, Vite, GIT, JWT, Passport.**
 
-- Recientemente aprendi: **TypeScript y React-Native** 
+- Recientemente aprendi: **TypeScript y React-Native.** 
 
 - 🌱 Estoy aprendiendo: **AWS, Firebase.**
 
