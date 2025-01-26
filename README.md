@@ -15,7 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/pedro-berustein/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pedro-berustein/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pedro-berustein/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin" width="40" height="40"/> </a>
+<a href="https://pedroberustein.netlify.app/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/DennisSuitters/LibreICONS/master/svg/libre-gui-portfolio.svg" alt="portfolio" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
